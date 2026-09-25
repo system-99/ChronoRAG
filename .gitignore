@@ -1,0 +1,5 @@
+.env
+test_1.ipynb
+.qdrant_ingest_checkpoint.json
+__pycache__
+sample_json_20260301
